@@ -34,6 +34,7 @@
 body {
     font-family: 'Work Sans', sans-serif;
     min-height: 100vh;
+    background-color: var(--lightPink);
 }
 
 main {
