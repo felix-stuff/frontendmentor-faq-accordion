@@ -148,6 +148,7 @@ header img {
     .accordion__toggle {
         font-size: 1.125rem;
         padding: 1.5rem 0;
+        column-gap: 0.5rem;
     }
 
     .accordion__content {
